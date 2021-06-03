@@ -17,8 +17,9 @@ body {
 
 
 .navbar {
-    border: solid 1px black;
+    
     overflow: hidden;
+    background-color: #788539;
 }
 
 .nav-item {
