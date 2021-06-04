@@ -43,3 +43,16 @@ body {
     align-items: center;
 }
 
+.row{
+    background-color: white;
+    
+}
+
+.imagen{
+    
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+    
+}
+
